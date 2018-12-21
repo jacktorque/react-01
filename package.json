@@ -20,7 +20,7 @@
   "eslintConfig": {
     "extends": "react-app"
   },
-  "homepage": "http://jacktorque.github.io/Movie_app",
+  "homepage": "http://jacktorque.github.io/react-01",
   "browserslist": [
     ">0.2%",
     "not dead",
